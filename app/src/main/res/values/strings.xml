@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarraMenu</string>
+    <string name="add">Añadir</string>
+    <string name="help">Ayuda</string>
+</resources>
